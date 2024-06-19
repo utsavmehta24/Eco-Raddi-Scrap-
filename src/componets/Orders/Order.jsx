@@ -5,7 +5,7 @@ function Order() {
   const [orders, setOrders] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:8000/Details')
+    fetch('https://utsavmehta24.github.io/E-Api/form.json')
       .then(response => response.json())
       .then(data => setOrders(data))
       .catch(error => console.error('Error fetching data:', error));
