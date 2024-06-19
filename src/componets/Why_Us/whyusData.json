@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Best Value",
+    "description": "We provide the best value for your scrap from our network of Recyclers.",
+    "imageSrc": "https://ikp.edgekit.net/h1rxzpffx/scrapuncle/why-us/rupee_h5cohN94jkyh.png"
+  },
+  {
+    "id": 2,
+    "title": "Flexiable Scheduling",
+    "description": "Flexiable Scheduling Pickup at Your door step according to your preferred date and time",
+    "imageSrc": "https://ikp.edgekit.net/h1rxzpffx/scrapuncle/why-us/thumbs-up_vOIp-YChzZhh.png"
+  },
+  {
+    "id": 3,
+    "title": "Transparent",
+    "description": "Eco Radii ensures transparent weighing and process, offering clarity and honesty from pickup to payment",
+    "imageSrc": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSm7SybledISymO-_EKZXIWPec4wpVqvLrzwrSKJgT_xsLNccgE"
+  }, 
+  {
+    "id": 4,
+    "title": "Environmental impact",
+    "description": "We commit to sustainable practises in repurposing your waste to protect our planet.",
+    "imageSrc": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEqsnh1Ku21_TmsDXYCMxiKFoDe_Vykw7BocCGJlV88_C1NfPZ"
+  }
+]

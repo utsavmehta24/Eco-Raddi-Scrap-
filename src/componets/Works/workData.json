@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Schedule a pickup",
+    "imageSrc": "https://ikp.edgekit.net/y8s2vhk66ef/undraw_Online_calendar_re_wk3t_1_SHrgqjm1w6l.png?updatedAt=1628624813421"
+  },
+  {
+    "id": 2,
+    "title": "Pickup at your address",
+    "imageSrc": "https://ikp.edgekit.net/y8s2vhk66ef/undraw_Street_food_re_uwex_1_tHCc3auJgJY.png?updatedAt=1628624814853"
+  },
+  {
+    "id": 3,
+    "title": "Receive payment",
+    "imageSrc": "https://ikp.edgekit.net/y8s2vhk66ef/undraw_Credit_card_payments_re_qboh_1_Sop8u3hvUiX.png?updatedAt=1628624812461"
+  }
+]

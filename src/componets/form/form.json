@@ -1,0 +1,60 @@
+{
+  "Details": [
+    {
+      "id": "a985",
+      "name": "Utsav Mehta",
+      "email": "example@example.com",
+      "address": "kjsbdf isdbi bsdbfb idkjbdfpisbk gbd d fos skn idsifn ddon f",
+      "city": "Mumbai",
+      "state": "Maharashtra ",
+      "zip": "123456",
+      "Weight": "3kg",
+      "MobileNumber": "9913816941",
+      "anySpecification": "",
+      "selectedDate": "2024-04-12",
+      "selectedTime": "12:00"
+    },
+    {
+      "id": "1cae",
+      "name": "sdfdsf",
+      "email": "lsdnlsd@slkdnfl.lsd",
+      "address": "sdfdf",
+      "city": "sdf",
+      "state": "sdf",
+      "zip": "126456",
+      "Weight": "3kg",
+      "MobileNumber": "9913816941",
+      "anySpecification": "",
+      "selectedDate": "2024-04-12",
+      "selectedTime": "13:55"
+    },
+    {
+      "id": "ad87",
+      "name": "Yatesh Ahire",
+      "email": "yeteshahire@gmail.com",
+      "address": "hello",
+      "city": "pune",
+      "state": "maha",
+      "zip": "411018",
+      "Weight": "2kg",
+      "MobileNumber": "9172623537",
+      "anySpecification": "",
+      "selectedDate": "2024-04-15",
+      "selectedTime": "08:54"
+    },
+    {
+      "id": "d433",
+      "name": "Apurva",
+      "email": "abc@gmail.com",
+      "address": "pune",
+      "city": "pune",
+      "state": "maharsthtra",
+      "zip": "412100",
+      "Weight": "3kg",
+      "MobileNumber": "9877787721",
+      "anySpecification": "na",
+      "selectedDate": "2024-04-15",
+      "selectedTime": "09:51"
+    }
+  ]
+}

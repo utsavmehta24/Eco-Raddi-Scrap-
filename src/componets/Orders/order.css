@@ -1,0 +1,64 @@
+.order-main-section {
+    margin: 5rem 1rem;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.order-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    
+}
+
+
+.order-item h2 {
+    margin-top: 0;
+}
+
+.order-item p {
+    margin: 5px 0;
+}
+
+.order-item p:nth-child(9){
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.order-item {
+    border: 1px solid #ccc;
+    border-radius: 10px; /* slightly rounder corners */
+    padding: 20px; /* add more padding */
+    background-color: rgba(236, 193, 128, 0.5);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* softer box shadow */
+    margin-bottom: 20px;
+    transition: box-shadow 0.3s;
+}
+
+.order-item:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* intensify shadow on hover */
+}
+
+.order-item button {
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    background-color: rgba(81, 216, 81, 0.489);
+    border: 2px solid rgba(236, 193, 128, 0.5);
+    border-radius: 15px;
+    width: 100%;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s, border-color 0.3s, width 1s ease-in-out; /* Added width transition here */
+}
+
+.order-item button:hover {
+    background-color: rgba(201, 74, 32, 0.8);
+    border-color: rgba(248, 4, 4, 0.653);
+    width: 40%;
+}
+
+
+
+
+

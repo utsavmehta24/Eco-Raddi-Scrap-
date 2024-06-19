@@ -1,0 +1,160 @@
+.form-body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  margin: 6rem 0rem;
+  text-transform: capitalize;
+  transition: all .2s linear;
+  border-radius: 10px;
+}
+
+.container123 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 25px;
+  min-height: 100vh;
+  border-radius: 50px;
+  background: linear-gradient(90deg, #2ecc71 60%, #27ae60 40.1%);
+}
+
+.container123 form {
+  padding: 20px;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+}
+
+.container123 form .row123 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.container123 form .row123 .col132 {
+  flex: 1 1 250px;
+}
+
+.container123 form .row123 .col123 .title123 {
+  font-size: 20px;
+  color: #333;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.container123 form .row123 .col123 .inputBox {
+  margin: 15px 0;
+  border-radius: 10px;
+}
+
+.container123 form .row123 .col123 .inputBox span {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.container123 form .row123 .col123 .inputBox input {
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 10px 15px;
+  font-size: 15px;
+  text-transform: none;
+}
+
+.container123 form .row123 .col123 .inputBox input:focus {
+  border: 1px solid #000;
+}
+
+.container123 form .row123 .col1232 .flex {
+  display: flex;
+  gap: 15px;
+}
+
+.container123 form .row123 .col123 .flex .inputBox {
+  margin-top: 5px;
+}
+
+.container123 form .row123 .col123 .inputBox > img {
+  height: 34px;
+  margin-top: 5px;
+  filter: drop-shadow(0 0 1px #000);
+}
+
+.container123 form .submit-btn {
+  width: 100%;
+  padding: 12px;
+  font-size: 17px;
+  background: #27ae60;
+  color: #fff;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.container123 form .submit-btn:hover {
+  background: #2ecc71;
+}
+
+.item-of-waste > p > input{
+  margin: 0.5rem;
+}
+
+.others-input{
+  margin: 0.5rem;
+}
+
+.item-of-waste>p:nth-child(2){
+  margin-left: 5rem;
+}
+
+.item-of-waste p{
+  display: inline-block;
+}
+
+.Weight-Selection > p > span {
+  font-size: 0.75rem;
+}
+
+.date-and-time-selection {
+  padding: 0.2rem 0rem;
+}
+
+.date-and-time-selection input{
+  margin: -1rem 0rem;
+}
+
+.UPI-img {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .UPI-img{
+    width: 10%;
+    height: 10%;
+  }
+
+}
+
+.cash-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stylish-checkbox {
+  width: 40px;
+  height: 40px;
+  appearance: none;
+  background-color: #fff;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.stylish-checkbox:checked {
+  content: url('./CashWing.png');  /* Money face with wings emoji */
+  color: white;
+  text-align: center;  /* Center the emoji */
+}

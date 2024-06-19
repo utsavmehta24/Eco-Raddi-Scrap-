@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image" : "https://th.bing.com/th/id/OIP.90o6OQ7-jGqViljHVhhfmQHaE8?rs=1&pid=ImgDetMain",
+        "person_name" : "Sarah L.",
+        "testimonial" : "As a working mom with two kids, recycling and sorting waste always felt overwhelming. EcoRadii's collection technique makes it so easy! The designated bins are clear and convenient, and the app keeps me informed about pick-up schedules and proper sorting. Plus, knowing our waste is being processed responsibly gives me peace of mind. We've been using their service for a year now, and it's made a huge difference in our household routine."
+    },
+    {
+        "id": 2,
+        "image" : "https://media.istockphoto.com/photos/portrait-of-a-beautifull-smiling-man-picture-id499907722?k=6&m=499907722&s=612x612&w=0&h=MYOvvCDGwVuKDQKPhkdQ_-hCqNST3AsMJv2CnO0AhNg=",
+        "person_name" : "RamKrishna Verma",
+        "testimonial" : "Living in a small apartment building with limited waste disposal options used to be frustrating. But since switching to EcoRaddi's collection system, it's a breeze. They provide compact, efficient bins that take up minimal space. Their contactless collection method is also a big plus, especially during these times. Most importantly, I feel confident that my recyclables are actually being recycled, which is a huge win for the environment."
+    },
+    {
+        "id": 3,
+        "image" : "https://th.bing.com/th/id/OIP.Q7yhZrQicdf60lDnwzvywAHaLH?rs=1&pid=ImgDetMain",
+        "person_name" : "Ram Malhotra",
+        "testimonial" : "Managing waste disposal for my restaurant was a constant hassle. Overflowing bins, missed pick-ups, and unclear sorting guidelines were a constant headache. EcoRaddi came in and completely transformed our system. Their customized collection plan perfectly suits our needs, and their educational resources helped train our staff on proper waste separation. The entire process is now smooth and efficient, saving us time and money."
+    }
+]

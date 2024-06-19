@@ -1,0 +1,18 @@
+.blog-article {
+    margin-top: 10rem;
+}
+
+.blog-article-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.blog-article-description, .blog-article-title {
+    text-align: justify;
+    padding: 0rem 20rem;
+    
+}
+
+.blog-article-description {
+    margin: 1rem 0rem;
+}

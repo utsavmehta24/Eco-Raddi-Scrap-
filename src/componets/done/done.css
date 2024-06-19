@@ -1,0 +1,27 @@
+.done-section {
+    margin-top: 10rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    padding: 25rem 5rem;
+    margin: 1rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.done-section img {
+    background-color: rgb(158, 236, 158);
+    border-radius: 50%;
+    box-shadow: 25px 25px 50px rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (max-width: 1000px) {
+    .done-section {
+        padding: 25rem 1rem;
+        flex-direction: column;
+    }
+    .done-section img {
+        margin-top: 2rem;
+    }
+}
