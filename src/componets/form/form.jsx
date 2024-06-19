@@ -92,7 +92,7 @@ function form() {
 
         const newCustomer = { name, email, address, city, state, zip, Weight, MobileNumber, anySpecification, selectedDate, selectedTime };
         console.log(newCustomer);
-        fetch('http://localhost:8000/Details', {
+        fetch('https://utsavmehta24.github.io/E-Api/form.json', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(newCustomer)
