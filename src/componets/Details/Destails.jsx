@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="row12 footer_padding">
                     <div className="col-md-4">
                         <p className="contact_us">Contact Us</p>
-                        <p><a href="tel:+919913816941">+91 9913816941</a></p>
+                        <p><a href="tel:+919039031115">+91 9039031115</a></p>
                         <p><a href="mailto:ecoraddi1@gmail.com">ecoraddi1@gmail.com</a></p>
                         <p style={{ fontWeight: '700' }}>Customer Support available <br />from 10am - 7pm</p>
                         <p className="find_us">Find Us Here</p>
@@ -32,7 +32,7 @@ const Footer = () => {
                     </div>
                     <div className="col-md-4 footer-address">
                         <img className="logo_class" src={imagelogo} alt="Scrapuncle" />
-                        <p className="swapeco"><b>rockingUT Solutions Fun. Limited </b></p>
+                        <p className="swapeco"><b>NN Solutions Fun. Limited </b></p>
                         <p style={{ display: 'block' }}>
                             <b>Regd. Address:</b> <br />Dr. D.Y. Patil Instiute of technology, Sant Tukaram Nagar, Pimpri Pune-411018
                         </p>
