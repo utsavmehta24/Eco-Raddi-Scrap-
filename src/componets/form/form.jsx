@@ -245,7 +245,7 @@ function form() {
                                 <input type="text" placeholder="mr. john deo" />
                             </div>
                             <div className="inputBox">
-                                <span>credit card number : / Debit Card number:</span>
+                                <span>credit card  : / Debit Card number:</span>
                                 <input type="number" placeholder="1111-2222-3333-4444" />
                             </div>
                             <div className="inputBox">
